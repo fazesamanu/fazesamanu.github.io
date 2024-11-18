@@ -1,4 +1,5 @@
-# **Samay Chourasia**  
+# **Samay Chourasia** 
+![](https://www.shutterstock.com/image-photo/passport-photo-portrait-young-man-260nw-2437772333.jpg)
 ### Address:  
 📍 H-9 Aurobindo Hostel, MNIT College, Jaipur, Rajasthan - 302017  
 📞 **Phone:** +91-1122334455  
