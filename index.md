@@ -12,10 +12,10 @@
 ---
 
 ## **🎓 Education**  
-### Bachelor of Technology (B.Tech)  
-📍 Malaviya National Institute of Technology, Jaipur  
-📅 **Graduation Date:** August 2027  
-📊 **GPA:** 9.8  
+
+| **Degree**                    | **Institution**                                 | **Location**             | **Graduation Date** | **GPA** |
+|--------------------------------|------------------------------------------------|--------------------------|---------------------|---------|
+| Bachelor of Technology (B.Tech)| Malaviya National Institute of Technology (MNIT) | Jaipur, Rajasthan, India | August 2027         | 9.8     |
 
 ---
 
@@ -65,4 +65,5 @@
 
 ## **📜 References**  
 Available upon request.  
+
 
